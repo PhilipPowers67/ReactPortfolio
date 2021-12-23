@@ -16,35 +16,35 @@
         "language": ""
     },
     {
-        "name": "",
-        "image": "",
-        "git": "",
+        "name": "Powers Family BBQ Sauce",
+        "image": "Project3.png",
+        "git": "https://github.com/PhilipPowers67/PowersFamilyBarbequeSauce",
         "site": "",
-        "description": "",
+        "description": "Powers Family BBQ Sauce is my own business with my family where we sell 4 different flavors of BBQ Sauce in hope to get a food truck sometime in the near future",
         "language": ""
     },
     {
-        "name": "",
-        "image": "",
-        "git": "",
-        "site": "",
-        "description": "",
+        "name": "Plan My Day",
+        "image": "DayPlanner.png",
+        "git": "https://github.com/PhilipPowers67/PlanMyDay",
+        "site": "https://philippowers67.github.io/PlanMyDay/",
+        "description": "Plan My Day us a daily planner used to keep track of all your daily tasks.",
         "language": ""
     },
     {
-        "name": "",
-        "image": "",
-        "git": "",
-        "site": "",
-        "description": "",
+        "name": "Password Generator",
+        "image": "PasswordGenerator.png",
+        "git": "https://github.com/PhilipPowers67/RandomizedPasswordCreator",
+        "site": "https://philippowers67.github.io/RandomizedPasswordCreator/",
+        "description": "This password generator creates a password based on which characters you would like, such as Capital and lowercase letters, numbers, and characters",
         "language": ""
     },
     {
-        "name": "",
-        "image": "",
-        "git": "",
-        "site": "",
-        "description": "",
+        "name": "Are These Your Notes?",
+        "image": "title-page.png",
+        "git": "https://github.com/PhilipPowers67/AreTheseYourNotes",
+        "site": "https://aretheseyournotes.herokuapp.com/",
+        "description": "Are These Your Notes is a website that helps you track notes and messages to yourself.",
         "language": ""
     }
 ]

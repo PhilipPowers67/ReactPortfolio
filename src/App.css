@@ -15,9 +15,20 @@ img {
   
 }
 
+.bio {
+  color:white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.GitHub img {
+  height: 125px;
+}
+.LinkedIn img {
+  height: 125px;
 }
 
 html {

@@ -4,7 +4,7 @@ import './style.css';
 function Card(props) {
     return(
         <div>
-            <div className="col s12 m6">
+            <div className="col-4">
                 <h2 className="header">{props.title}</h2>
                 <div className="card horizontal">
                     <div className="card-image">
@@ -12,10 +12,11 @@ function Card(props) {
                     </div>
                     <div className="card-stacked center">
                         <div className="card-content">
-                            <p>{props.description}</p>
+                            <p className='text-center'>{props.description}</p>
                         </div>
-                        <div className="card-action">
+                        <div className="card-action text-center">
                             <a href={props.github}>Link to Github</a>
+                            <br/>
                             <a href={props.site}>Link to Site</a>
                         </div>
                     </div>

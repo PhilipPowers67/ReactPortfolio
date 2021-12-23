@@ -22,4 +22,9 @@
       font-size: 1.5em;
     }
   } */
-  
+  p {
+    color: black;
+  }
+  .card-action a {
+    color: black !important;
+  }
