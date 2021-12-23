@@ -33,14 +33,14 @@ function App() {
         </div>
       </header>
       <img alt="coding" src={coverImage} />
-      <div>
+      <footer>
         <a href="https://www.linkedin.com/in/philippowers93" className="LinkedIn">
           <img alt="LinkedIn" src={linkedInIcon} />
         </a>
         <a href="https://github.com/PhilipPowers67" className="GitHub">
           <img src={githubIcon} alt="GitHub-Icon" />
         </a>
-      </div>
+      </footer>
     </div>
   );
 }
