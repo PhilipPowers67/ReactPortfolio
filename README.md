@@ -8,7 +8,7 @@ React Portfolio
 * [Features](#Features)
 * [ScreenShot](#ScreenShot)
 ## Description
-Using mongoose, this application shows 6 projects I've worked on and an about me section.
+Using React, this application shows 6 projects I've worked on and an about me section.
 ## General Info
 Using react I created a portfolio for myself to display my projects
 ## Features
@@ -17,5 +17,5 @@ Using react I created a portfolio for myself to display my projects
 * Contact links in footer
 ### ScreenShot
 ![Screenshot](ScreenShots/Philip-Powers.png)
-![Screenshot](SreenShots/Philip-Powers-About.png)
+![Screenshot](ScreenShots/Philip-Powers-About.png)
 ![Screenshot](ScreenShots/Philip-Powers-Portfolio.png)
