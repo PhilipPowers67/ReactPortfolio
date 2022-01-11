@@ -6,6 +6,7 @@ function Card(props) {
         <div>
             <div className="container">
                 <h2 className="container">{props.title}</h2>
+                <br/>
                 <div className="card">
                     <div className="card-image">
                         <img alt="anytime" src={require(`../../utils/images/${props.image}`)} />
@@ -20,6 +21,7 @@ function Card(props) {
                             <br/>
                             <a href={props.site}>Link to Site</a>
                         </div>
+                        <br/>
                     </div>
                 </div>
             </div>

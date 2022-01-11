@@ -15,6 +15,7 @@ h3 {
   margin-top: 25px;
 }
 
+
 .wedding {
   display: flex;
   flex-wrap: wrap;
@@ -38,7 +39,6 @@ h3 {
 
 img {
   height: 500px;
-  
 }
 
 .bio {
@@ -73,6 +73,10 @@ img {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+h2 {
+  text-align: center;
 }
 
 a {

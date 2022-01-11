@@ -1,22 +1,14 @@
-/* .card {
-    height: 190px;
+.card {
     background-color: transparent;
+    border: none;
   }
- 
+ /* 
   .card-content {
     font-size: 1.2em;
   }
   
-  .card-image img{
-    height: 190px;
-    width: 100%
-  }
-  
-  div.card-action a {
-    color: rgb(40, 125, 148) !important;
-    font-size: 1.1em;
-    min-width: 280px;
-  }
+
+
   
   @media only screen and (min-width : 1190px) {
     .card-content {
@@ -29,3 +21,25 @@
   .card-action a {
     color: black !important;
   }
+
+  .container {
+    margin: auto;
+    color: white;
+    border: none;
+  }
+
+  div.card-action a {
+    color: white !important;
+    font-size: 1.1em;
+    min-width: 280px;
+  }
+
+  img {
+    align-content: center;
+    
+  }
+   .card-image img{
+    height: 500px;
+    width: 100%
+  }
+  
