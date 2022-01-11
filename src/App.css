@@ -1,9 +1,35 @@
 body {
-  background-color: black;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(70, 69, 69) 50%, rgba(0,0,0,1) 100%);
+}
+
+h3 {
+  text-align: center;  
 }
 
 * {
   color:white;
+}
+
+.title {
+  margin-top: 25px;
+}
+
+.wedding {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: transparent;
+  margin: auto;
+  /* align-content: center; */
+}
+
+.number {
+  margin-left: 21px;
+}
+
+.email {
+  margin-left: 21px;
 }
 
 .App {
@@ -17,6 +43,7 @@ img {
 
 .bio {
   color:white;
+  max-width: 500px;
 }
 
 .App-logo {
@@ -24,16 +51,23 @@ img {
   pointer-events: none;
 }
 
-.GitHub img {
-  height: 125px;
-}
-.LinkedIn img {
-  height: 125px;
+.icons img {
+  height: 45px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-html {
-  background-color: black;
+.GitHub img {
+  height: 45px;
 }
+.LinkedIn img {
+  height: 45px;
+}
+
+/* html {
+  background-color: black;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -131,6 +165,8 @@ Note: Beware of modifying this element as it can break the animations - you shou
 .bm-item {
   display: inline-block;
 }
+
+
 
 /* Styling of overlay */
 .bm-overlay {
